@@ -40,6 +40,7 @@
     "components/CreateDate.coffee",
     "components/SetPropertyValue.coffee",
     "components/CallMethod.coffee",
+    "components/CreateArray.coffee",
     "index.js"
   ],
   "json": [
